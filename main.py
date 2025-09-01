@@ -1,8 +1,6 @@
-from funcoes import impar_par
+import funcoes as f
 
 def main():
     numero = int(input("Digite um número: "))
-    print(impar_par(numero))
-
-if __name__ == "__main__":
-    main()
+    print(f.impar_par(numero))
+main()
