@@ -5,7 +5,7 @@ como objetivo criar um programa simples de **Par ou Impar**, com um menu interat
 
 ## 📂 Estrutura do Projeto
 
-    Projeto_Tabuada/
+    projeto_impar_par/
     │── main.py         # Arquivo principal com o menu interativo
     │── funcoes.py      # Arquivo com as funções
     │── README.md       # Documentação do projeto
