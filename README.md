@@ -1,4 +1,4 @@
-# Projeto: Tabuadas Interativas em Python
+# Projeto: Par ou Ímpar em Python
 
 Este projeto foi desenvolvido como parte de estudos de **Python** e tem
 como objetivo criar um programa simples de **Par ou Impar**, com um menu interativo para o usuário escolher um número desejado.
