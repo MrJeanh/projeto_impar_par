@@ -1,7 +1,7 @@
-# Projeto: Par ou Ímpar em Python
+ Projeto: Par ou Ímpar em Python
 
 Este projeto foi desenvolvido como parte de estudos de **Python** e tem
-como objetivo criar um programa simples de **Par ou Impar**, com um menu interativo para o usuário escolher um número desejado.
+como objetivo criar um programa simples de **Par ou Ímpar**, com um menu interativo para o usuário escolher um número desejado.
 
 ## 📂 Estrutura do Projeto
 
@@ -22,9 +22,9 @@ python main.py
 
 ## 📌 Funcionalidades
 
-- **Indentificar se o número é Par e Ímpar**
+- **Identificar se o número é Par e Ímpar**
 
-O usuário escolhe um número desejado para indentificar se é Par ou Ímpar.
+O usuário escolhe um número desejado para identificar se é Par ou Ímpar.
 
 ## 📖 Exemplo de Uso
 
@@ -43,10 +43,9 @@ Saída esperada (exemplo de número 2):
 
 ## 📚 Aprendizados
 
-- Estruturação de projeto em Python com múltiplos arquivos.\
-- Criação de funções reutilizáveis.\
-- Uso de `input()` e `print()` para interação com o usuário.\
-- Aplicação de condicionais (`if/elif/else`) para controle de fluxo.
+- Estruturação de projeto em Python com múltiplos arquivos.
+- Criação de funções reutilizáveis.
+- Uso de `input()` e `print()` para interação com o usuário.
 
 ---
 
